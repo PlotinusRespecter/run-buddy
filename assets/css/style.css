@@ -45,6 +45,8 @@ header nav ul li {
     font-size: 22px;
   }
 
+/* apply styles to <footer> */
+
   footer {
       background: #fce138;
       width: 100%;
